@@ -1,35 +1,32 @@
-# Contributor Covenant Code of Conduct
+# AstroMerchant Code of Conduct
 
 ## Our Pledge
 
-We are committed to making participation in the StelloStream Labs community a respectful and harassment-free experience for everyone.
-
-We welcome contributors regardless of experience, identity, background, or location.
+AstroMerchant is committed to fostering an open, welcoming, and inclusive community. We expect all contributors, maintainers, and community members to treat one another with respect and professionalism.
 
 ## Our Standards
 
-Examples of positive behavior include:
+Positive behavior includes:
 
-- Being respectful and welcoming.
-- Accepting constructive feedback.
-- Helping new contributors.
-- Focusing on what is best for the project.
-- Showing empathy toward others.
+* Being respectful and considerate.
+* Providing constructive feedback.
+* Welcoming new contributors.
+* Respecting different viewpoints and experiences.
+* Collaborating in good faith.
 
-Examples of unacceptable behavior include:
+Unacceptable behavior includes:
 
-- Harassment
-- Personal attacks
-- Hate speech
-- Trolling
-- Publishing private information
+* Harassment or discrimination of any kind.
+* Personal attacks or insulting comments.
+* Trolling or intentionally disruptive behavior.
+* Sharing private information without permission.
 
 ## Enforcement
 
-Project maintainers are responsible for enforcing this Code of Conduct.
+Project maintainers are responsible for enforcing this Code of Conduct and may remove comments, issues, pull requests, or contributors whose behavior violates these standards.
 
-Report unacceptable behavior by opening a confidential security report or emailing the maintainers.
+## Reporting
 
-## Attribution
+If you experience or witness unacceptable behavior, please report it privately through the project's support channels or by opening a confidential security report.
 
-This Code of Conduct is adapted from the Contributor Covenant.
+Thank you for helping make AstroMerchant a welcoming community.
